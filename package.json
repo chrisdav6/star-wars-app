@@ -1,0 +1,15 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Star Wars Node/Express Movie App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Chris Davis",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
